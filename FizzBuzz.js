@@ -1,4 +1,8 @@
-
+// const output = FizzBuzz(7);
+// const output = FizzBuzz(12);
+// const output = FizzBuzz(10);/
+// const output = FizzBuzz(15);
+// const output = FizzBuzz(false);
 const output = FizzBuzz('');
 
 console.log(output);
